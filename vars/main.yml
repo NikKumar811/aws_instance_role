@@ -4,5 +4,5 @@ key_name: New_test
 instance_type: t2.micro
 image_id: ami-047a51fa27710816e
 region: us-east-1
-aws_access_key: AKIA6H55KI4QJYEL65VZ
-aws_secret_key: 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
+aws_access_key: AKIA6******************
+aws_secret_key: iW4N/SOR*********************
